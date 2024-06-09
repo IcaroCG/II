@@ -1,9 +1,976 @@
-<mxfile host="app.diagrams.net" modified="2024-06-09T16:36:57.292Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" version="24.5.2" etag="0raPS5-klwYY8V0ydGCs" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-09T19:31:29.389Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="0XVy_aCCkndN2LvZZBvM" version="24.5.2" type="github">
   <diagram name="Página-1" id="S-Tu2e_NNQtqXUpJ0CWE">
-    <mxGraphModel>
+    <mxGraphModel dx="5045" dy="2710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2700" pageHeight="2840" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-583" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry width="2700" height="2840" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-582" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry width="2700" height="2840" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-579" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23fff2cc%3BstrokeColor%3D%23d6b656%3Bdashed%3D1%3BdashPattern%3D8%208%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22100%22%20y%3D%2225%22%20width%3D%221740%22%20height%3D%222115%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;dashPattern=8 8;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="50" y="1060" width="2530" height="1730" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-581" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23fff2cc%3BstrokeColor%3D%23d6b656%3Bdashed%3D1%3BdashPattern%3D8%208%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22100%22%20y%3D%2225%22%20width%3D%221740%22%20height%3D%222115%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=none;strokeColor=#4D4D4D;strokeWidth=2;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="1380" y="1110" width="1130" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-578" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;dashPattern=8 8;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="1705" y="570" width="940" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-576" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;dashPattern=8 8;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="150" y="40" width="1160" height="970" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-261" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Significa Medir&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583" source="Fq2PC_y8aCaqW_k13u-T-259" target="Fq2PC_y8aCaqW_k13u-T-260">
+          <mxGeometry x="0.0075" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-371" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583" source="Fq2PC_y8aCaqW_k13u-T-259" target="Fq2PC_y8aCaqW_k13u-T-370">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1290" y="840" />
+              <mxPoint x="1290" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-414" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583" source="Fq2PC_y8aCaqW_k13u-T-259" target="Fq2PC_y8aCaqW_k13u-T-375">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-415" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Pode ser de forma&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="Fq2PC_y8aCaqW_k13u-T-414">
+          <mxGeometry x="-0.6651" y="21" relative="1" as="geometry">
+            <mxPoint x="-18" y="-21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-259" value="&lt;p&gt;&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Medição de Nível&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="1500" y="800" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-262" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583" source="Fq2PC_y8aCaqW_k13u-T-260" target="Fq2PC_y8aCaqW_k13u-T-266">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2060" y="840" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1930" y="840" />
+              <mxPoint x="1930" y="950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-265" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Definido Por&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Fq2PC_y8aCaqW_k13u-T-262">
+          <mxGeometry x="-0.1211" relative="1" as="geometry">
+            <mxPoint x="5" y="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-286" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Tem mnemônico de&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583" source="Fq2PC_y8aCaqW_k13u-T-260">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2060" y="690" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1940" y="840" />
+              <mxPoint x="1940" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-260" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Nível&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="1770" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-266" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Altura de preenchimento de um líquido ou de algum tipo de material em um reservatório ou recipiente em relação a um referencial.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="2030" y="920" width="490" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-267" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2060" y="688.8199999999999" as="sourcePoint" />
+            <mxPoint x="2180" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2060" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-268" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Elemento Primário: LE&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" connectable="0" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-267">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="189" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-269" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2060" y="690" as="sourcePoint" />
+            <mxPoint x="2180" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2060" y="620" />
+              <mxPoint x="2180" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-270" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Transmissor com Indicação: LIT&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" connectable="0" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-269">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="195" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-271" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2060" y="690" as="sourcePoint" />
+            <mxPoint x="2180" y="650" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2060" y="650" />
+              <mxPoint x="2180" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-272" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Transmissor com Registro: LRT&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" connectable="0" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-271">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-273" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2060" y="690" as="sourcePoint" />
+            <mxPoint x="2180" y="670" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2060" y="670" />
+              <mxPoint x="2180" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-274" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Controlador com Indicação: LIC&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" connectable="0" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-273">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="169" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-275" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2060" y="690" as="sourcePoint" />
+            <mxPoint x="2180" y="690" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2060" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-276" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Alarme Baixo: LAL&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" connectable="0" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-275">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-277" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2060" y="690" as="sourcePoint" />
+            <mxPoint x="2180" y="720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2060" y="720" />
+              <mxPoint x="2180" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-278" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Alarme Alto: LAH&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" connectable="0" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-277">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="125" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-279" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2060" y="690" as="sourcePoint" />
+            <mxPoint x="2180" y="750" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2060" y="750" />
+              <mxPoint x="2180" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-280" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Chave de Detecção de Alto e Baixo: LSHL&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" connectable="0" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-279">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="219" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-281" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2060" y="690" as="sourcePoint" />
+            <mxPoint x="2180" y="770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2060" y="770" />
+              <mxPoint x="2180" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-282" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Elemento Final de Controle: LV&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" connectable="0" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-281">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-283" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2380" y="770" as="sourcePoint" />
+            <mxPoint x="2520" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-284" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Corresponde a&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" connectable="0" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-283">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-285" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Válvula&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="2520" y="760" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-288" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Medido em&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583" source="Fq2PC_y8aCaqW_k13u-T-260">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2080" y="840" as="targetPoint" />
+            <mxPoint x="1900" y="850" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="2080" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-290" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2030" y="840" as="sourcePoint" />
+            <mxPoint x="2090" y="870" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2030" y="870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-291" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;milimetro [mm]&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" connectable="0" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-290">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-292" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2030" y="840" as="sourcePoint" />
+            <mxPoint x="2090" y="840" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2040" y="840" />
+              <mxPoint x="2040" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-293" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;centimetro [cm]&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" connectable="0" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-292">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-294" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2030" y="840" as="sourcePoint" />
+            <mxPoint x="2090" y="810" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2030" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-295" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;metro [m]&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" connectable="0" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-294">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="75" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-336" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Nível&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="1770" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-374" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Definida por&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583" source="Fq2PC_y8aCaqW_k13u-T-370" target="Fq2PC_y8aCaqW_k13u-T-373">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-378" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583" source="Fq2PC_y8aCaqW_k13u-T-370" target="Fq2PC_y8aCaqW_k13u-T-377">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-412" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583" source="Fq2PC_y8aCaqW_k13u-T-370" target="Fq2PC_y8aCaqW_k13u-T-387">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-413" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583" source="Fq2PC_y8aCaqW_k13u-T-370" target="Fq2PC_y8aCaqW_k13u-T-397">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-370" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Direta&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="1060" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-373" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Técnicas que medem a altura da superfície do fluido diretamente em relação ao fundo do recipiente.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="635" y="70" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-478" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583" source="Fq2PC_y8aCaqW_k13u-T-375" target="Fq2PC_y8aCaqW_k13u-T-420">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-480" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583" source="Fq2PC_y8aCaqW_k13u-T-375" target="Fq2PC_y8aCaqW_k13u-T-450">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-481" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583" source="Fq2PC_y8aCaqW_k13u-T-375" target="Fq2PC_y8aCaqW_k13u-T-469">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-498" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583" source="Fq2PC_y8aCaqW_k13u-T-375" target="Fq2PC_y8aCaqW_k13u-T-482">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-543" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583" source="Fq2PC_y8aCaqW_k13u-T-375" target="Fq2PC_y8aCaqW_k13u-T-539">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-544" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583" source="Fq2PC_y8aCaqW_k13u-T-375" target="Fq2PC_y8aCaqW_k13u-T-530">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-545" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583" source="Fq2PC_y8aCaqW_k13u-T-375" target="Fq2PC_y8aCaqW_k13u-T-515">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-546" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583" source="Fq2PC_y8aCaqW_k13u-T-375" target="Fq2PC_y8aCaqW_k13u-T-503">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-556" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583" source="Fq2PC_y8aCaqW_k13u-T-375" target="Fq2PC_y8aCaqW_k13u-T-552">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-575" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583" source="Fq2PC_y8aCaqW_k13u-T-375" target="Fq2PC_y8aCaqW_k13u-T-571">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-375" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Indireta&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="1060" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-385" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Funciona por&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583" source="Fq2PC_y8aCaqW_k13u-T-387" target="Fq2PC_y8aCaqW_k13u-T-388">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-386" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Características&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583" source="Fq2PC_y8aCaqW_k13u-T-387" target="Fq2PC_y8aCaqW_k13u-T-389">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-387" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Indicador de Vidro Plano&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="730" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-388" value="princípio dos vasos comunicantes. Barras planas de vidro onde se fixam uma ou mais seções&amp;nbsp; dos visores. Comunicação com os tanques por meio de válvulas de bloqueio." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="290" y="410" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-389" value="Medição local e contínua. São capazes de operar em temperaturas e pressões mais elevadas." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="290" y="487.5" width="270" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-380" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Funciona por&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583" source="Fq2PC_y8aCaqW_k13u-T-377" target="Fq2PC_y8aCaqW_k13u-T-379">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="270" />
+              <mxPoint x="690" y="195" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-382" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Características&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583" source="Fq2PC_y8aCaqW_k13u-T-377" target="Fq2PC_y8aCaqW_k13u-T-381">
+          <mxGeometry x="0.25" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-391" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Exemplo de uso&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583" source="Fq2PC_y8aCaqW_k13u-T-377" target="Fq2PC_y8aCaqW_k13u-T-390">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-377" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Indicador de Nível&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="740" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-379" value="Princípio dos vasos comunicantes. Tubo de vidro conectado a válvulas de bloqueio e estas ao reservatório." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="320" y="180" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-381" value="Medição local e contínua." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="440" y="258.75" width="140" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-390" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Locais onde sua quebra não constitua perigo; Reservatórios onde o líquido não ofereça perigo ao escapar do interior do visor&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="380" y="320" width="250" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-392" value="&lt;div&gt;Tanque de Ar-Óleo UHE Três Marias&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="420" y="570" width="210" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-393" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Exemplo de uso&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583" source="Fq2PC_y8aCaqW_k13u-T-387" target="Fq2PC_y8aCaqW_k13u-T-392">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="532.5" as="sourcePoint" />
+            <mxPoint x="610" y="605.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-395" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Funciona por&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" source="Fq2PC_y8aCaqW_k13u-T-397" target="Fq2PC_y8aCaqW_k13u-T-398" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-396" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Características&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" source="Fq2PC_y8aCaqW_k13u-T-397" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="0.3356" relative="1" as="geometry">
+            <mxPoint x="525" y="750" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-408" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Podem conter&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583" source="Fq2PC_y8aCaqW_k13u-T-397" target="Fq2PC_y8aCaqW_k13u-T-407">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-397" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Flutuadores&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="735" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-398" value="Elemento de densidade menor que o fluido a ser medido. A medida em que o nível varia, o elemento varia emerso no fluido." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="375" y="630" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-406" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Desvantagens&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583" source="Fq2PC_y8aCaqW_k13u-T-399">
+          <mxGeometry x="-0.0589" y="7" relative="1" as="geometry">
+            <mxPoint x="525" y="755" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="525" y="792" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-399" value="Sensível à agitação do líquido.&amp;nbsp;´ Possui parte móveis, passíveis de deformações e oxidações." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="255" y="770" width="180" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-400" value="&lt;div&gt;Indicador de nível com flutuador e contrapeso para indicação em régua graduada (UTE Igarapé - Cemig).&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="255" y="840" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-401" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Exemplo de uso&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" source="Fq2PC_y8aCaqW_k13u-T-397" target="Fq2PC_y8aCaqW_k13u-T-400" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="725" y="772.5" as="sourcePoint" />
+            <mxPoint x="615" y="845.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-404" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583" source="Fq2PC_y8aCaqW_k13u-T-402">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="525" y="755" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-405" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Vantagens&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="Fq2PC_y8aCaqW_k13u-T-404">
+          <mxGeometry x="-0.0289" y="-5" relative="1" as="geometry">
+            <mxPoint x="-7" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-402" value="Pode medir grandes variações&lt;br/&gt;de nível, da ordem de até 30 m." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="255" y="680" width="180" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-409" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583" source="Fq2PC_y8aCaqW_k13u-T-407" target="Fq2PC_y8aCaqW_k13u-T-410">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="455" y="900.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-411" value="Funciona&lt;div&gt;por&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="Fq2PC_y8aCaqW_k13u-T-409">
+          <mxGeometry x="-0.2705" y="-4" relative="1" as="geometry">
+            <mxPoint x="-7" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-407" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Transdutores&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="565" y="897.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-410" value="&lt;div&gt;diretamente mediante uma escala graduada (com contrapeso) ou por meio de um circuito elétrico dotado de um potenciômetro acoplado a uma ponte de Wheatstone.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="195" y="902.5" width="290" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-417" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Funciona por&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" source="Fq2PC_y8aCaqW_k13u-T-420" target="Fq2PC_y8aCaqW_k13u-T-421" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="1432.5" />
+              <mxPoint x="730" y="1282.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-419" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Exemplo de uso&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" source="Fq2PC_y8aCaqW_k13u-T-420" target="Fq2PC_y8aCaqW_k13u-T-423" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-420" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Deslocador&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="780" y="1402.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-421" value="Principio de Arquimedes. Corpo que flutua parcialmente inserido num fluido confinado em uma câmara, ou tubo.&amp;nbsp;a medida em que o nível do fluido aumenta dentro da câmara, aumenta-se, também, a resultante de forças em direção a emersão&amp;nbsp;do dispositivo deslocador." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="265" y="1252.5" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-423" value="&lt;div&gt;Medição em torres de destilação.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="490" y="1522.5" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-430" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Características&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="0.3356" relative="1" as="geometry">
+            <mxPoint x="780" y="1432.5" as="sourcePoint" />
+            <mxPoint x="570" y="1432.5" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-431" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Desvantagens&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" source="Fq2PC_y8aCaqW_k13u-T-432" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="-0.0589" y="7" relative="1" as="geometry">
+            <mxPoint x="570" y="1437.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="1474.5" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-432" value="´ Requer manutenção constante, visto que o dispositivo deslocador recebe acumulo de&lt;div&gt;&amp;nbsp;resíduos ao longo do tempo.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="230" y="1452.5" width="250" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-433" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" source="Fq2PC_y8aCaqW_k13u-T-435" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="1437.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-434" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Vantagens&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="Fq2PC_y8aCaqW_k13u-T-433">
+          <mxGeometry x="-0.0289" y="-5" relative="1" as="geometry">
+            <mxPoint x="-7" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-435" value="Alta precisão (0,5% do FE)." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="300" y="1377.5" width="180" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-436" value="Fe= Abase*g*[&lt;span style=&quot;color: rgb(18, 20, 22); text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;ρd*hs+&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(18, 20, 22); text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;ρe(ht-hs)&lt;/span&gt;]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="265" y="1312.5" width="390" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-437" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Funciona por&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" source="Fq2PC_y8aCaqW_k13u-T-439" target="Fq2PC_y8aCaqW_k13u-T-440" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="1747.5" />
+              <mxPoint x="670" y="1597.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-438" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Exemplo de uso&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" source="Fq2PC_y8aCaqW_k13u-T-439" target="Fq2PC_y8aCaqW_k13u-T-441" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-439" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Hidrostática&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="720" y="1717.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-440" value="Teorema de Stevin. Pressão exercida pela altura da coluna líquida (pressão hidrostática) no fundo do mesmo (P = ρgh)." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="350" y="1567.5" width="245" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-441" value="&lt;div&gt;Planta Piloto STEC - NVT&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="435" y="1837.5" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-442" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Características&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="0.3356" relative="1" as="geometry">
+            <mxPoint x="720" y="1747.5" as="sourcePoint" />
+            <mxPoint x="510" y="1747.5" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-443" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Tanques Fechados&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" source="Fq2PC_y8aCaqW_k13u-T-444" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="-0.0589" y="7" relative="1" as="geometry">
+            <mxPoint x="510" y="1752.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="1789.5" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-444" value="Diferencial de pressão em relação à&lt;br/&gt;pressão da fase gasosa existente acima&lt;br/&gt;do fluido residente no tanque." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="170" y="1767.5" width="250" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-445" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" source="Fq2PC_y8aCaqW_k13u-T-447" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="1752.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-446" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Tanques Abertos&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="Fq2PC_y8aCaqW_k13u-T-445">
+          <mxGeometry x="-0.0289" y="-5" relative="1" as="geometry">
+            <mxPoint x="-7" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-447" value="Diferencial de pressão em relação à pressão atmosférica" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="240" y="1687.5" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-448" value="h = (P1-P2)/(&lt;span style=&quot;color: rgb(18, 20, 22); text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;ρ*g)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="350" y="1627.5" width="245" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-463" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583" source="Fq2PC_y8aCaqW_k13u-T-450" target="Fq2PC_y8aCaqW_k13u-T-439">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="1885" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-464" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583" source="Fq2PC_y8aCaqW_k13u-T-450" target="Fq2PC_y8aCaqW_k13u-T-453">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="1885" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="880" y="1885" />
+              <mxPoint x="890" y="1885" />
+              <mxPoint x="890" y="1888" />
+              <mxPoint x="860" y="1888" />
+              <mxPoint x="860" y="2068" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-465" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Pode ser&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="Fq2PC_y8aCaqW_k13u-T-464">
+          <mxGeometry x="-0.8117" y="4" relative="1" as="geometry">
+            <mxPoint x="-17" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-450" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Pressão Diferencial&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="880" y="1860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-451" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Funciona por&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" source="Fq2PC_y8aCaqW_k13u-T-453" target="Fq2PC_y8aCaqW_k13u-T-454" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="0.1724" y="10" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="2067.5" />
+              <mxPoint x="670" y="1987.5" />
+            </Array>
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-452" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Exemplo de uso&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" source="Fq2PC_y8aCaqW_k13u-T-453" target="Fq2PC_y8aCaqW_k13u-T-455" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="0.1696" y="-5" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="2067.5" />
+              <mxPoint x="660" y="2122.5" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-453" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Densidade&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="720" y="2037.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-454" value="mede-se a pressão em dois pontos da mistura heterogênea." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="265" y="1967.5" width="245" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-455" value="&lt;div&gt;separaração do óleo e da água em processos petrolíferos&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="320" y="2107.5" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-456" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Características&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583" target="Fq2PC_y8aCaqW_k13u-T-458">
+          <mxGeometry x="0.3356" relative="1" as="geometry">
+            <mxPoint x="720" y="2067.5" as="sourcePoint" />
+            <mxPoint x="510" y="2067.5" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-458" value="é utilizado um transmissor de densidade&amp;nbsp;com a função de medição de nível de interface com alta exatidão." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="260" y="2045" width="250" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-462" value="P1-P2 = g(&lt;span style=&quot;color: rgb(18, 20, 22); text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;ρ1h1-&lt;/span&gt;&lt;span style=&quot;color: rgb(18, 20, 22); text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;ρ2h2&lt;/span&gt;)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="265" y="2007.5" width="245" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-467" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Funciona por&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" source="Fq2PC_y8aCaqW_k13u-T-469" target="Fq2PC_y8aCaqW_k13u-T-470" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="0.1724" y="10" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="2342.5" />
+              <mxPoint x="720" y="2222.5" />
+            </Array>
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-468" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Exemplo de uso&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" source="Fq2PC_y8aCaqW_k13u-T-469" target="Fq2PC_y8aCaqW_k13u-T-471" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="0.1696" y="-5" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="2342.5" />
+              <mxPoint x="720" y="2397.5" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-469" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Capacitivo&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="780" y="2312.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-470" value="Variações na capacitância. As placas e os dielétricos dependem das características do fluido e do material do tanque" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="327.5" y="2192.5" width="245" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-471" value="&lt;div&gt;Tanques de acrílico&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="380" y="2382.5" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-472" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="Fq2PC_y8aCaqW_k13u-T-473" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="0.3356" relative="1" as="geometry">
+            <mxPoint x="780" y="2342.5" as="sourcePoint" />
+            <mxPoint x="570" y="2342.5" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-473" value="Para um fluido condutivo o medidor de nível capacitivo (sonda) necessita ter uma capa isolante.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="280" y="2320" width="290" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-476" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Características&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="Fq2PC_y8aCaqW_k13u-T-477" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="-0.287" relative="1" as="geometry">
+            <mxPoint x="780" y="2342.5" as="sourcePoint" />
+            <mxPoint x="570" y="2315" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="780" y="2342.5" />
+              <mxPoint x="676" y="2342.5" />
+              <mxPoint x="676" y="2297.5" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-477" value="Em tanques com diâmetros grandes e com fluido não condutivo é recomendável que o medidor de nível capacitivo (sonda) tenha uma blindagem metálica.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="280" y="2275" width="292.5" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-484" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583" source="Fq2PC_y8aCaqW_k13u-T-482" target="Fq2PC_y8aCaqW_k13u-T-483">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="2645" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-485" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Funciona por&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="Fq2PC_y8aCaqW_k13u-T-484">
+          <mxGeometry x="0.0646" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-487" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Deve-se considerar&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583" source="Fq2PC_y8aCaqW_k13u-T-482">
+          <mxGeometry x="0.2244" relative="1" as="geometry">
+            <mxPoint x="110" y="2645" as="sourcePoint" />
+            <mxPoint x="550" y="2654.5" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-495" value="Exemplo de uso" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583" source="Fq2PC_y8aCaqW_k13u-T-482" target="Fq2PC_y8aCaqW_k13u-T-494">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="2645" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-482" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Pesagem&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;(Célula de Carga)&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="780" y="2625" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-483" value="Conhecendo-se a geometria do reservatório e o peso específico do material, pode-se&amp;nbsp;calcular o nível como: h = Peso/(Abase*&lt;span style=&quot;color: rgb(32, 33, 34); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;γ&lt;/font&gt;&lt;/span&gt;)" style="rounded=1;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="330" y="2492.5" width="245" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-488" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Que o silo seja isolado da estrutura do prédio&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="1" y="130" relative="1" as="geometry">
+            <mxPoint x="550" y="2655.0299999999997" as="sourcePoint" />
+            <mxPoint x="440" y="2592.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="2592.52" />
+            </Array>
+            <mxPoint x="-130" y="-130" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-489" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;Possíveis alterações no projeto estrutural do prédio&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="1" y="150" relative="1" as="geometry">
+            <mxPoint x="550" y="2652.52" as="sourcePoint" />
+            <mxPoint x="440" y="2612.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="2612.52" />
+            </Array>
+            <mxPoint x="-149" y="-150" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-491" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Os sistemas de enchimento e esvaziamento do silo&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;sejam&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;projetados &lt;/span&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;para não interferirem no sistema de medição.&lt;/span&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="1" y="160" relative="1" as="geometry">
+            <mxPoint x="550" y="2652.52" as="sourcePoint" />
+            <mxPoint x="440" y="2642.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="2642.5" />
+              <mxPoint x="440" y="2642.5" />
+            </Array>
+            <mxPoint x="-160" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-493" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Seja evitada a instalação de vibradores, motores e outras&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;fontes de&amp;nbsp;&lt;/font&gt;vibração em contato direto com o silo.&lt;/font&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="1" y="160" relative="1" as="geometry">
+            <mxPoint x="550" y="2652.52" as="sourcePoint" />
+            <mxPoint x="450" y="2682.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="2682.5" />
+            </Array>
+            <mxPoint x="-160" y="-160" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-494" value="&lt;div&gt;Armazenamento de leite em pó&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="375" y="2712.5" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-499" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" source="Fq2PC_y8aCaqW_k13u-T-503" target="Fq2PC_y8aCaqW_k13u-T-504" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-500" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Funciona por&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="Fq2PC_y8aCaqW_k13u-T-499">
+          <mxGeometry x="0.0646" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-501" value="Deve-se considerar" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" source="Fq2PC_y8aCaqW_k13u-T-503" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="0.2264" relative="1" as="geometry">
+            <mxPoint x="1740" y="1282.5" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-502" value="Exemplo de uso" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" source="Fq2PC_y8aCaqW_k13u-T-503" target="Fq2PC_y8aCaqW_k13u-T-509" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-503" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Ultrassom&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="1420" y="1252.5" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-504" value="Medição do tempo necessário para um pulso de ultrassom percorrer a distância entre o sensor e o material e voltar." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="1740" y="1130" width="245" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-505" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Nenhum objeto&amp;nbsp;deve projetar-se para o interior do cone formado pelo feixe de ultrassom&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="1" y="-240" relative="1" as="geometry">
+            <mxPoint x="1740" y="1285.0099999999998" as="sourcePoint" />
+            <mxPoint x="1820" y="1222.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1740" y="1222.5" />
+            </Array>
+            <mxPoint x="240" y="-240" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-506" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Não é indicada em aplicações onde uma superfície cônica seja formada devido a alta velocidade de rotação do agitador.&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="1" y="330" relative="1" as="geometry">
+            <mxPoint x="1740" y="1282.5" as="sourcePoint" />
+            <mxPoint x="1820" y="1242.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1740" y="1242.5" />
+            </Array>
+            <mxPoint x="330" y="327" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-507" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;O sensor deve ser instalado com um desvio máximo de 2 a 3º&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="1" y="-170" relative="1" as="geometry">
+            <mxPoint x="1740" y="1282.5" as="sourcePoint" />
+            <mxPoint x="1820" y="1262.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1740" y="1262.5" />
+            </Array>
+            <mxPoint x="170" y="-170" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-508" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Formação de espuma seja a menor possível&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="1" y="120" relative="1" as="geometry">
+            <mxPoint x="1740" y="1282.5" as="sourcePoint" />
+            <mxPoint x="1820" y="1302.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1740" y="1302.5" />
+            </Array>
+            <mxPoint x="120" y="117" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-509" value="&lt;div&gt; ácidos, esgotos/efluentes contaminados ou meios que contenham partículas aderentes ao equipamento. &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="1750" y="1350" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-511" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" source="Fq2PC_y8aCaqW_k13u-T-515" target="Fq2PC_y8aCaqW_k13u-T-516" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-512" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Funciona por&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="Fq2PC_y8aCaqW_k13u-T-511">
+          <mxGeometry x="0.0646" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-514" value="Exemplo de uso" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" source="Fq2PC_y8aCaqW_k13u-T-515" target="Fq2PC_y8aCaqW_k13u-T-521" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-523" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="Fq2PC_y8aCaqW_k13u-T-583" source="Fq2PC_y8aCaqW_k13u-T-515" target="Fq2PC_y8aCaqW_k13u-T-522">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-524" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Características&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="Fq2PC_y8aCaqW_k13u-T-523">
+          <mxGeometry x="0.0882" y="-5" relative="1" as="geometry">
+            <mxPoint x="9" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-515" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Radar&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="1420" y="1487.5" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-516" value="Medição do tempo necessário para ondas de rádio percorrerem a distância entre o sensor e o material e voltar." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="1700" y="1410" width="245" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-521" value="&lt;div&gt; ácidos, esgotos/efluentes contaminados ou meios que contenham partículas aderentes ao equipamento. &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="1700" y="1560" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-522" value="Frequência de ordem 3 a 30GHz (microondas). Pode ser guiada ou não-guiada." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="1727.5" y="1503.75" width="262.5" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-525" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" source="Fq2PC_y8aCaqW_k13u-T-530" target="Fq2PC_y8aCaqW_k13u-T-531" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-526" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Funciona por&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="Fq2PC_y8aCaqW_k13u-T-525">
+          <mxGeometry x="0.0646" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-527" value="Exemplo de uso" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" source="Fq2PC_y8aCaqW_k13u-T-530" target="Fq2PC_y8aCaqW_k13u-T-532" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-528" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" source="Fq2PC_y8aCaqW_k13u-T-530" target="Fq2PC_y8aCaqW_k13u-T-533" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-529" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Características&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="Fq2PC_y8aCaqW_k13u-T-528">
+          <mxGeometry x="0.0882" y="-5" relative="1" as="geometry">
+            <mxPoint x="9" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-530" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Radioatividade&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="1420" y="1920" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-531" value="Medição da intensidade de raios gamas no detector." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="1695" y="1860" width="290" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-532" value="&lt;div&gt; Vale utilizava, porém foi substituída por contra da preocupação da imagem da empresa.&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="1700" y="1992.5" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-533" value="Fonte normalmente de Césio-137. O detector mais utilizado é formado por uma câmara contendo gás inerte pressurizado, alimentado por uma tensão contínua negativa (-15 VDC) e um coletor de elétrons." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="1727.5" y="1910" width="312.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-534" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" source="Fq2PC_y8aCaqW_k13u-T-539" target="Fq2PC_y8aCaqW_k13u-T-540" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-535" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Funciona por&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="Fq2PC_y8aCaqW_k13u-T-534">
+          <mxGeometry x="0.0646" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-536" value="Exemplo de uso" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" source="Fq2PC_y8aCaqW_k13u-T-539" target="Fq2PC_y8aCaqW_k13u-T-541" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-537" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" source="Fq2PC_y8aCaqW_k13u-T-539" target="Fq2PC_y8aCaqW_k13u-T-542" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-538" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Características&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="Fq2PC_y8aCaqW_k13u-T-537">
+          <mxGeometry x="0.0882" y="-5" relative="1" as="geometry">
+            <mxPoint x="9" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-539" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Laser&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="1420" y="1707.5" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-540" value="Medição do tempo necessário para um pulso de laser percorrer a distância entre o sensor e o material e voltar." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="1700" y="1630" width="370" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-541" value="&lt;div&gt; Medição de nível em líquidos opacos&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="1700" y="1780" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-542" value="necessita de uma superfície suficientemente refletora para a luz do laser refletir." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="1727.5" y="1716.88" width="262.5" height="41.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-547" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" source="Fq2PC_y8aCaqW_k13u-T-552" target="Fq2PC_y8aCaqW_k13u-T-553" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-548" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Funciona por&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="Fq2PC_y8aCaqW_k13u-T-547">
+          <mxGeometry x="0.0646" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-549" value="Exemplo de uso" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" source="Fq2PC_y8aCaqW_k13u-T-552" target="Fq2PC_y8aCaqW_k13u-T-554" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-550" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" source="Fq2PC_y8aCaqW_k13u-T-552" target="Fq2PC_y8aCaqW_k13u-T-555" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-551" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Características&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="Fq2PC_y8aCaqW_k13u-T-550">
+          <mxGeometry x="0.0882" y="-5" relative="1" as="geometry">
+            <mxPoint x="9" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-552" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Condutividade&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="1420" y="2137.5" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-553" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Dois eletrodos separados, uma corrente será gerada quando o fluido, condutivo, estar no nível do eletrodo de controle.&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="1700" y="2060" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-554" value="&lt;div&gt; Tratamento de água&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="1700" y="2210" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-555" value="Necessita que o fluido seja condutor." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="1727.5" y="2146.88" width="212.5" height="41.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-557" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" source="Fq2PC_y8aCaqW_k13u-T-562" target="Fq2PC_y8aCaqW_k13u-T-563" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-558" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Funciona por&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="Fq2PC_y8aCaqW_k13u-T-557">
+          <mxGeometry x="0.0646" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-559" value="Exemplo de uso" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" source="Fq2PC_y8aCaqW_k13u-T-562" target="Fq2PC_y8aCaqW_k13u-T-564" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-560" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" source="Fq2PC_y8aCaqW_k13u-T-562" target="Fq2PC_y8aCaqW_k13u-T-565" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-561" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Características&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="Fq2PC_y8aCaqW_k13u-T-560">
+          <mxGeometry x="0.0882" y="-5" relative="1" as="geometry">
+            <mxPoint x="9" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-562" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Vibração&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="1425" y="2337.5" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-563" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Alteração na frequência de ressonância de um garfo vibratório conectado a um cristal piezoelétrico.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="1705" y="2260" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-564" value="&lt;div&gt; Industria Química&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="1705" y="2410" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-565" value="Frequência de vibração se altera em cerca de 10 a 20%." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="1732.5" y="2346.88" width="212.5" height="41.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-566" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" source="Fq2PC_y8aCaqW_k13u-T-571" target="Fq2PC_y8aCaqW_k13u-T-572" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-567" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Funciona por&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="Fq2PC_y8aCaqW_k13u-T-566">
+          <mxGeometry x="0.0646" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-568" value="Exemplo de uso" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" source="Fq2PC_y8aCaqW_k13u-T-571" target="Fq2PC_y8aCaqW_k13u-T-573" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-571" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Flutuador Magnético&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="1430" y="2530" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-572" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Imã menos denso que o fluido fecha ou abre um circuito quando o nível é atingido.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="1710" y="2500" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq2PC_y8aCaqW_k13u-T-573" value="&lt;div&gt; Tratamento de esgoto&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Fq2PC_y8aCaqW_k13u-T-583">
+          <mxGeometry x="1710" y="2600" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
