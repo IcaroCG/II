@@ -1,9 +1,445 @@
-<mxfile host="app.diagrams.net" modified="2024-06-16T19:12:26.931Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" version="24.5.2" etag="GDSr_H2htPZVX5Bz3CjO" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-16T21:01:30.933Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="vD3yUVqP7D-N3tfpOkWG" version="24.5.2" type="github">
   <diagram name="Página-1" id="CYljWZleQ6S6IRu14Mso">
-    <mxGraphModel>
+    <mxGraphModel dx="1345" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2700" pageHeight="2840" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Conceitos Gerais&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;endArrow=none;endFill=0;" edge="1" parent="1" source="LrjEu3-QAF8Kk3MU55cg-1">
+          <mxGeometry x="0.5439" y="-40" relative="1" as="geometry">
+            <mxPoint x="1840" y="1310" as="targetPoint" />
+            <mxPoint x="1620" y="1460" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1670" y="1660" />
+              <mxPoint x="1670" y="1310" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-91" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="LrjEu3-QAF8Kk3MU55cg-1" target="LrjEu3-QAF8Kk3MU55cg-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-1" value="&lt;p&gt;&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Medição de Temperatura&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="1620" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-4" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="LrjEu3-QAF8Kk3MU55cg-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1840" y="1308.8199999999997" as="sourcePoint" />
+            <mxPoint x="1960" y="1210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1840" y="1160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-8" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="LrjEu3-QAF8Kk3MU55cg-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1840" y="1310" as="sourcePoint" />
+            <mxPoint x="1960" y="1270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1900" y="1310" />
+              <mxPoint x="1900" y="1310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-14" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="LrjEu3-QAF8Kk3MU55cg-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1840" y="1310" as="sourcePoint" />
+            <mxPoint x="1960" y="1340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1840" y="1470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-16" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="LrjEu3-QAF8Kk3MU55cg-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1840" y="1310" as="sourcePoint" />
+            <mxPoint x="1960" y="1370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1840" y="1690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-18" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="LrjEu3-QAF8Kk3MU55cg-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1840" y="1310" as="sourcePoint" />
+            <mxPoint x="1960" y="1390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1840" y="1590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-22" value="Significa" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LrjEu3-QAF8Kk3MU55cg-20" target="LrjEu3-QAF8Kk3MU55cg-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2070" y="1100.0000000000002" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-26" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="LrjEu3-QAF8Kk3MU55cg-20" target="LrjEu3-QAF8Kk3MU55cg-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2120" y="1160" />
+              <mxPoint x="2120" y="1245" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-20" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Termometria&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1950" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-21" value="Estudo dos processos de medição de temperatura dos corpos" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="1080" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-28" value="Significa" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="LrjEu3-QAF8Kk3MU55cg-23" target="LrjEu3-QAF8Kk3MU55cg-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-23" value="Pirometria" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="1160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-24" value="Criometria" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="1225" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-25" value="Pode ser" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="LrjEu3-QAF8Kk3MU55cg-20" target="LrjEu3-QAF8Kk3MU55cg-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-27" value="Medição de altas temperaturas, na faixa onde os efeitos de radiação térmica passam a se manifestar" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2310" y="1155" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-31" value="Medição de baixas temperaturas, ou seja, aquelas próximas ao zero absoluto." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2310" y="1220" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-32" value="Significa" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" target="LrjEu3-QAF8Kk3MU55cg-31" parent="1" source="LrjEu3-QAF8Kk3MU55cg-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2240" y="1225" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-40" value="Ramificada para" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="LrjEu3-QAF8Kk3MU55cg-36" target="LrjEu3-QAF8Kk3MU55cg-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2170" y="1369.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-36" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Termologia&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="1280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-37" value="Significa" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="LrjEu3-QAF8Kk3MU55cg-38" parent="1" source="LrjEu3-QAF8Kk3MU55cg-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2080" y="1360" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-38" value="Ramo da física que investiga os&lt;br&gt;fenômenos relacionados com a energia térmica" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="1280" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-44" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="LrjEu3-QAF8Kk3MU55cg-42" target="LrjEu3-QAF8Kk3MU55cg-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-42" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Calorimetria&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="1340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-43" value="Estuda as trocas de energia entre corpos quando elas se dão na forma de calor." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2330" y="1350" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-48" value="Significa" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="LrjEu3-QAF8Kk3MU55cg-45" target="LrjEu3-QAF8Kk3MU55cg-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-49" value="Pode ser transferido por" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="LrjEu3-QAF8Kk3MU55cg-45">
+          <mxGeometry x="0.2632" relative="1" as="geometry">
+            <mxPoint x="2260" y="1510" as="targetPoint" />
+            <mxPoint x="2080" y="1480" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="2110" y="1470" />
+              <mxPoint x="2110" y="1510" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-68" value="Medida em" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="LrjEu3-QAF8Kk3MU55cg-45" target="LrjEu3-QAF8Kk3MU55cg-67">
+          <mxGeometry x="0.1111" relative="1" as="geometry">
+            <mxPoint x="2080" y="1480" as="sourcePoint" />
+            <mxPoint x="2190" y="1480" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-45" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Calor&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="1440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-46" value="Energia em trânsito" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="1420" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-50" value="Convecção" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1">
+          <mxGeometry x="1" y="30" relative="1" as="geometry">
+            <mxPoint x="2260" y="1510" as="sourcePoint" />
+            <mxPoint x="2300" y="1530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2260" y="1530" />
+            </Array>
+            <mxPoint x="30" y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-51" value="Condução" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1">
+          <mxGeometry x="1" y="30" relative="1" as="geometry">
+            <mxPoint x="2260" y="1510" as="sourcePoint" />
+            <mxPoint x="2300" y="1510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2270" y="1510" />
+              <mxPoint x="2270" y="1510" />
+            </Array>
+            <mxPoint x="30" y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-53" value="Radiação" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1">
+          <mxGeometry x="1" y="30" relative="1" as="geometry">
+            <mxPoint x="2260" y="1510" as="sourcePoint" />
+            <mxPoint x="2300" y="1490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2260" y="1490" />
+            </Array>
+            <mxPoint x="30" y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-55" value="Significa" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LrjEu3-QAF8Kk3MU55cg-54" target="LrjEu3-QAF8Kk3MU55cg-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2150" y="1590.2857142857147" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-66" value="Medida em" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="LrjEu3-QAF8Kk3MU55cg-54" target="LrjEu3-QAF8Kk3MU55cg-65">
+          <mxGeometry x="0.2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-54" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Temperatura&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="1560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-56" value="Medida da quantidade de calor." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="1550" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-60" value="Significa" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="LrjEu3-QAF8Kk3MU55cg-58" target="LrjEu3-QAF8Kk3MU55cg-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-58" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Capacidade Térmica&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="1660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-59" value="Capacidade de um corpo de mudar sua&lt;br&gt;temperatura ao receber ou liberar calor.&lt;br&gt;Razão entre a quantidade de calor e a&lt;br&gt;variação de temperatura." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="1655" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-65" value="Cº, Fº, K" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="1600" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-67" value="J, cal, kcal" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2180" y="1460" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-72" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Mnemônicos&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;endArrow=none;endFill=0;" edge="1" parent="1" source="LrjEu3-QAF8Kk3MU55cg-1">
+          <mxGeometry x="0.4762" y="10" relative="1" as="geometry">
+            <mxPoint x="1840" y="1860" as="targetPoint" />
+            <mxPoint x="1620" y="1460" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1660" y="1660" />
+              <mxPoint x="1660" y="1860" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-73" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1839.9999999999998" y="1858.8199999999997" as="sourcePoint" />
+            <mxPoint x="1959.9999999999998" y="1760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1839.9999999999998" y="1760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-74" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Elemento Primário: TE&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" connectable="0" vertex="1" parent="LrjEu3-QAF8Kk3MU55cg-73">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="189" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-75" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1839.9999999999998" y="1860" as="sourcePoint" />
+            <mxPoint x="1959.9999999999998" y="1790" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1839.9999999999998" y="1790" />
+              <mxPoint x="1959.9999999999998" y="1790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-76" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Transmissor com Indicação: TIT&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" connectable="0" vertex="1" parent="LrjEu3-QAF8Kk3MU55cg-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="195" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-77" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1839.9999999999998" y="1860" as="sourcePoint" />
+            <mxPoint x="1959.9999999999998" y="1820" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1839.9999999999998" y="1820" />
+              <mxPoint x="1959.9999999999998" y="1820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-78" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Transmissor com Registro: TRT&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" connectable="0" vertex="1" parent="LrjEu3-QAF8Kk3MU55cg-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-79" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1839.9999999999998" y="1860" as="sourcePoint" />
+            <mxPoint x="1959.9999999999998" y="1840" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1839.9999999999998" y="1840" />
+              <mxPoint x="1959.9999999999998" y="1840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-80" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Controlador com Indicação: TIC&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" connectable="0" vertex="1" parent="LrjEu3-QAF8Kk3MU55cg-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="169" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-81" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1839.9999999999998" y="1860" as="sourcePoint" />
+            <mxPoint x="1959.9999999999998" y="1860" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1839.9999999999998" y="1860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-82" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Alarme Baixo: TSL&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" connectable="0" vertex="1" parent="LrjEu3-QAF8Kk3MU55cg-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-83" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1839.9999999999998" y="1860" as="sourcePoint" />
+            <mxPoint x="1959.9999999999998" y="1890" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1839.9999999999998" y="1890" />
+              <mxPoint x="1959.9999999999998" y="1890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-84" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Alarme Alto: TSH&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" connectable="0" vertex="1" parent="LrjEu3-QAF8Kk3MU55cg-83">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="135" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-85" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1839.9999999999998" y="1860" as="sourcePoint" />
+            <mxPoint x="1959.9999999999998" y="1920" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1839.9999999999998" y="1920" />
+              <mxPoint x="1959.9999999999998" y="1920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-86" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Chave de Detecção de Alto e Baixo: TSHL&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" connectable="0" vertex="1" parent="LrjEu3-QAF8Kk3MU55cg-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="219" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-87" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1839.9999999999998" y="1860" as="sourcePoint" />
+            <mxPoint x="1959.9999999999998" y="1940" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1839.9999999999998" y="1940" />
+              <mxPoint x="1959.9999999999998" y="1940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-88" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Elemento Final de Controle: TV&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" connectable="0" vertex="1" parent="LrjEu3-QAF8Kk3MU55cg-87">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-93" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="LrjEu3-QAF8Kk3MU55cg-90" target="LrjEu3-QAF8Kk3MU55cg-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-90" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Por Contato&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="1390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-92" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Termopares&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="1250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-94" value="funciona por" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;endArrow=classic;" edge="1" parent="1" target="LrjEu3-QAF8Kk3MU55cg-96" source="LrjEu3-QAF8Kk3MU55cg-92">
+          <mxGeometry x="0.1053" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="1000" y="1275" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-95" value="Utilizado em" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;endArrow=classic;" edge="1" parent="1" target="LrjEu3-QAF8Kk3MU55cg-97" source="LrjEu3-QAF8Kk3MU55cg-92">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1000" y="1275" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-99" value="Seebeck" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="LrjEu3-QAF8Kk3MU55cg-96" target="LrjEu3-QAF8Kk3MU55cg-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-96" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Três efeitos envolvidos num circuito a termopar: Seebeck, Peltier, e Thomson.&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;Medem a diferença de temperatura entre &lt;/span&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;dois pontos, não a temperatura absoluta.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1205" width="370" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-97" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Pode ser empregado em diversas indústrias ara medir a temperatura em fluidos.&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1299.47" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-98" value="A junção de dois metais gera uma tensão elétrica que é função da diferença de temperatura entre junções." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1110" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-100" value="Peltier" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="LrjEu3-QAF8Kk3MU55cg-101" parent="1" source="LrjEu3-QAF8Kk3MU55cg-96">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="1330" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-101" value="Se passar uma corrente elétrica&lt;br/&gt;por um par termoelétrico uma das&lt;br/&gt;junções se aquece enquanto a outra se&lt;br/&gt;resfria" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1204.95" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-102" value="Thomson" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" target="LrjEu3-QAF8Kk3MU55cg-103" parent="1" source="LrjEu3-QAF8Kk3MU55cg-96">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="1424.47" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-103" value="Um condutor, conduzindo uma corrente elétrica, submetido a Temperaturas diferentes em suas extremidades, pode emitir ou absorver calor, dependendo da diferença de temperatura e da intensidade e sentido da corrente elétrica." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1299.47" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-104" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Termômetro Bimetálico&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="1425" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-105" value="funciona por" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;endArrow=classic;" edge="1" source="LrjEu3-QAF8Kk3MU55cg-104" target="LrjEu3-QAF8Kk3MU55cg-107" parent="1">
+          <mxGeometry x="0.1053" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="1010" y="1450" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-106" value="Utilizado em" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;endArrow=classic;" edge="1" source="LrjEu3-QAF8Kk3MU55cg-104" target="LrjEu3-QAF8Kk3MU55cg-108" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1010" y="1450" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-107" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;Duas tiras de metal com coeficientes de dilatação diferentes fortemente fixadas. Quando aquecidas, uma tira se expandirá mais que a outra, causando uma deformação no conjunto.&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1380" width="390" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-108" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Empregado em diversas&lt;br&gt;indústrias ara medir a temperatura em fluidos&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1470" width="160" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-109" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Termômetro Bimetálico&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="1605" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-110" value="funciona por" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;endArrow=classic;" edge="1" source="LrjEu3-QAF8Kk3MU55cg-109" target="LrjEu3-QAF8Kk3MU55cg-112" parent="1">
+          <mxGeometry x="0.1053" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="1010" y="1630" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-111" value="Utilizado em" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;endArrow=classic;" edge="1" source="LrjEu3-QAF8Kk3MU55cg-109" target="LrjEu3-QAF8Kk3MU55cg-113" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1010" y="1630" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-112" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;Duas tiras de metal com coeficientes de dilatação diferentes fortemente fixadas. Quando aquecidas, uma tira se expandirá mais que a outra, causando uma deformação no conjunto.&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1560" width="390" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LrjEu3-QAF8Kk3MU55cg-113" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Empregado em diversas&lt;br&gt;indústrias ara medir a temperatura em fluidos&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1650" width="160" height="55" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
